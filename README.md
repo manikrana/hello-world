@@ -1,5 +1,4 @@
 # hello-world
-First repository on Github
+# First repository on Github
 
-Hello world,
-Manik here and I like to build stuff.
+# This is a dummy repository I use to play around and test out any git commands.
